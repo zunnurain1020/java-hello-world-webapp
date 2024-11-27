@@ -1,6 +1,10 @@
 <html>
 <head>
 	<style>
+		 body {
+                   	background:color:skyblue;
+                   }
+
 		h1 {
 			color:blue;
 			text-decoration:underline;
