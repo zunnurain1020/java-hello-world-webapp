@@ -2,7 +2,7 @@
 <head>
 	<style>
 		 body {
-                   	background:color:skyblue;
+                   	background-color:skyblue;
                    }
 
 		h1 {
