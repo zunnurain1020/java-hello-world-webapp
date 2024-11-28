@@ -20,15 +20,15 @@
     </style>
 </head>
 <body>
-    <h1>shoaib</h1>
+    <h1>zunnurain khanam </h1>
     <p>this is sample page for deploying in tomcat server</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>my name is zunnurain khanam</p>
+    <p>i completed mba in klm college</p>
+    <p>zulkharnain</p>
+    <p>pasha khanam</p>
+    <p>jamsheer khanam</p>
+    <p>ashudi</p>
+    <p>dojo</p>
     <p></p>
     <p></p>
     <p></p>
