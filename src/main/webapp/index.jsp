@@ -6,11 +6,11 @@
     <title>Jenkins page</title>
 </head>
 <body>
-    <h1>shoaib</h1>
+    <h1>plz attend class on time</h1>
     <p>this is sample page for deploying in tomcat server</p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>everyone also</p>
+    <p>edit remo</p>
+    <p>creativity shoaib</p>
     <p></p>
     <p></p>
     <p></p>
