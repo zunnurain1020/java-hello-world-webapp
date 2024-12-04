@@ -33,7 +33,7 @@
     <p>kabeer</p>
     <p>humza</p>
     <p>zuzu</p>
-    <p>noon</p>
+    <p>noor</p>
     <p>nurain</p>
 </body>
 </html>
